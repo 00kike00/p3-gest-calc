@@ -1,0 +1,17 @@
+# Entornos virtuales de Python (creados por uv)
+.venv/
+venv/
+env/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos del sistema operativo de Windows/macOS
+Thumbs.db
+.DS_Store
+
+# Opcional: Entornos de desarrollo
+.vscode/
+.idea/
